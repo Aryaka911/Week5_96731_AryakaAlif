@@ -21,7 +21,6 @@ export default function App() {
       </Appbar.Header>
 
       <View style={styles.container}>
-        {/* 🔍 Search */}
         <Searchbar
           placeholder="Cari user..."
           value={search}
